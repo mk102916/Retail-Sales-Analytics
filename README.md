@@ -99,13 +99,6 @@ This project analyzes retail sales data to identify business trends, customer pu
 
 ---
 
-## 📷 Dashboard Preview
-
-<img width="1429" height="896" alt="dashboard" src="https://github.com/user-attachments/assets/60ae570d-1ebe-4a87-85fc-9c3539495d6a" />
-
-
----
-
 ## Future Improvements
 
 - Deploy the dashboard online.
